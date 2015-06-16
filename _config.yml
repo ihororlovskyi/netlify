@@ -1,0 +1,8 @@
+# Build settings
+baseurl: /2010
+markdown: kramdown
+permalink: /:title/
+
+port: 7000
+
+exclude: ['README.md']
