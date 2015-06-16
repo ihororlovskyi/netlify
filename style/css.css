@@ -10,19 +10,19 @@ p {
 }
 
 A {
-	color:#bbb; /* Цвет ссылок */
-	text-decoration:underline; /* Подчеркивание */
+	color:#bbb;
+	text-decoration:underline;
 	}
 A:visited {
-	color:#bbb; /* Цвет посещенных ссылок */
-	text-decoration:underline; /* Подчеркивание */
+	color:#bbb;
+	text-decoration:underline;
 	}
 A:hover {
-	color:#fff; /* Цвет ссылок при наведении на них курсора мыши */
-	text-decoration:underline; /* Подчеркивание */
+	color:#fff;
+	text-decoration:underline;
 	}
 //A img {
-//	border:#000 0px none;
+//	border: none;
 //	}
 
 .pointer { cursor: pointer; }
@@ -50,7 +50,7 @@ TABLE {
 	padding: 0px;
 	border-spacing: 0px;
 	}
-TD.col53 { /* Релиз / Кредитсы, Коменты и, надеюсь в будущем, плеер */
+TD.col53 {
 	width:150px;
 	text-align:left;
 	border: #000000 1px solid;
@@ -63,14 +63,14 @@ TD.col53 { /* Релиз / Кредитсы, Коменты и, надеюсь в будущем, плеер */
 	padding: 3px;
 	border-spacing: 0px;
 	}
-TD.col92 { /* Пустое растояние */
+TD.col92 {
 	height: 30px;
 	margin-right:auto;
 	margin-left:auto;
 	padding: 0px;
 	border-spacing: 0px;
 	}
-TD.col21 { /* Закругление верхнее */
+TD.col21 {
 	width:1000px;
 	height: 20px;
 	background-image:url(../img/transparent_top.png);
@@ -81,7 +81,7 @@ TD.col21 { /* Закругление верхнее */
 	padding: 0px;
 	border-spacing: 0px;
 	}
-TD.col22 { /* Закругление нижнее */
+TD.col22 {
 	width:1000px;
 	height: 20px;
 	background-image:url(../img/transparent_bottom.png);
@@ -93,22 +93,22 @@ TD.col22 { /* Закругление нижнее */
 	border-spacing: 0px;
 	}
 
-.m2-button { /* Кнопка другого меню, там де релізи */
+.m2-button {
 width:220px;height:60px;float:left;text-align:left;}
 
-.m2-button:hover { /* Кнопка другого меню, там де релізи, коли наведен на кнопку курсор */
+.m2-button:hover {
 color:#fff;}
 
-.m2-button img { /* Кнопка другого меню, там де релізи, рамка для зображення */
+.m2-button img {
 border:#fff 1px solid;}
 
-.m2-button img:hover{ /* Кнопка другого меню, там де релізи, рамка для зображення */
+.m2-button img:hover{
 border:#000 1px solid;}
 
-.m3-button { /* Кнопка третього меню, там де лінки на сд,діджітал та фрі */
+.m3-button {
 background: url(../img/transparent_button.png) top left repeat;border:#262626 0px solid;width:86px;height:28px;float:left;text-align:center;padding-top:2px;color:#808080;}
 
-.m3-button:hover { /* Кнопка третього меню, там де лінки на сд,діджітал та фрі, коли наведен на кнопку курсор */
+.m3-button:hover {
 background: none;color:#fff;}
 
 .menu3 {margin:0;padding:0;}
@@ -137,3 +137,19 @@ background:none;
 border:none;
 padding:3px 0;
 }
+
+
+
+
+
+
+footer {
+	text-align:center;
+	background: rgba(56, 56, 56, 0.75);
+	border-radius: 0 0 10px 10px;
+	padding: 8px;
+	color: #fff;
+	width:360px;
+}
+
+
