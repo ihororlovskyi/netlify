@@ -1,5 +1,5 @@
 # Build settings
-baseurl: /2010
+baseurl: /old
 markdown: kramdown
 permalink: /:title/
 
