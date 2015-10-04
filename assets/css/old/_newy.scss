@@ -36,6 +36,19 @@ main.wrap {
     }
 }
 
+.list-artists {
+    article {
+        float: left;
+        max-width: 82px;
+        display: inline-block;
+        margin: 0 10px 10px;
+
+        p {
+            height: 22px;
+        }
+    }
+}
+
 footer {
     text-align: center;
     background: rgba($gray, 0.7);
