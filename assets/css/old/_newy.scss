@@ -1,0 +1,67 @@
+$gray: #383838;
+$black: #000;
+
+nav.main {
+    text-align: right;
+    margin-top: 20px;
+    a {
+        display: block;
+        margin-bottom: 10px;
+        background: rgba($gray, .7);
+        padding: 0 20px;
+        line-height: 30px;
+        text-decoration: none;
+        border-radius: 5px 0 0 5px;
+
+        &:hover {
+            background: rgba($black, .7);
+        }
+    }
+}
+
+main.wrap {
+    background: rgba($black, .7);
+    border-radius: 14px;
+    padding: 20px;
+    @include clearfix;
+
+    div.right {
+        float: left;
+        width: 210px;
+    }
+
+    div.left {
+        float: left;
+        width: 728px;
+    }
+}
+
+.list-artists {
+    article {
+        float: left;
+        max-width: 82px;
+        display: inline-block;
+        margin: 0 10px 10px;
+
+        p {
+            height: 22px;
+        }
+    }
+}
+
+footer {
+    text-align: center;
+    background: rgba($gray, 0.7);
+    border-radius: 0 0 10px 10px;
+    padding: 8px;
+    color: #fff;
+    width: 360px;
+    margin-bottom: 40px;
+    margin-right: 20px;
+    float: right;
+
+    body.index & {
+        display: none;
+    }
+}
+
