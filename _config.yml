@@ -1,0 +1,2 @@
+baseurl: '/netlify-demo'
+exclude: ['README.md']
