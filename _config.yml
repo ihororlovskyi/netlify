@@ -1,2 +1,2 @@
-baseurl: '/netlify-demo'
-exclude: ['README.md']
+baseurl: /netlify-demo
+exclude: [README.md, Gemfile, Gemfile.lock]
