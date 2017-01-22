@@ -1,7 +1,5 @@
-# Lookinglook Records
+# netlify
 
-Web development of Lookinglook Records site (old 2010 version)
+_Netlify Experiments_
 
-Used [jekyll](http://jekyllrb.com), [sass](http://sass-lang.com) with [bourbon](http://bourbon.io)
-
-Proudly hosted by [GitHub Pages](https://pages.github.com)
+[Netlify](https://www.netlify.com) Experiment
