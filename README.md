@@ -4,11 +4,10 @@ _Netlify Experiments_
 
 ### Features
 
-* Https
-* Free Hosting
-* Automatic Deploy
-* Netlify [https://io01.netlify.com](https://io01.netlify.com)
-* GitHub Pages [https://ihororlovskyi.github.io/netlify-demo](https://ihororlovskyi.github.io/netlify-demo)
+* https
+* Netlify Automatic Deploy
+* Netlify Free Hosting [https://io01.netlify.com](https://io01.netlify.com)
+* GitHub Pages Free Hosting [https://ihororlovskyi.github.io/netlify-demo](https://ihororlovskyi.github.io/netlify-demo)
 
 ### Used
 
