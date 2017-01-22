@@ -18,7 +18,9 @@ _Netlify Experiments_
 
 [GitHub Pages](https://pages.github.com) - free hosting
 
-### Run Locally
+### Run Locally (after cloning)
+
+    bundle install
 
     jekyll serve -w --baseurl ''
 
