@@ -2,4 +2,12 @@
 
 _Netlify Experiments_
 
-[Netlify](https://www.netlify.com) Experiment
+### Used
+
+[Netlify](https://www.netlify.com) - free hosting
+
+### Run
+
+    http-server
+
+#### Have fun! :)
