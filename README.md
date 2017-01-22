@@ -19,8 +19,6 @@ _Netlify Experiments_
 
 ### Run Locally (after cloning)
 
-    bundle install
-
     jekyll serve -w --baseurl ''
 
 #### Have fun! :)
